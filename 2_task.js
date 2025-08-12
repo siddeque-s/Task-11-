@@ -7,6 +7,6 @@ let num = promt("Enter number");
 
 let result = "";
 
-result = "" + num * 1 + num * 2 + num ** 2;
+result = "" + num + num * 2 + num ** 2;
 
 console.log(result);
